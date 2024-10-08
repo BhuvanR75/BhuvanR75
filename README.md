@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on OpenCV and probably Gen AI integrated Invisibility cloak<br>👯 I’m looking to collaborate and work on more exciting ML projects and participate in Hackathons<br>🤝 I’m looking for help with learning Machine Learning<br>🌱 I’m currently learning ML from Andrew NG's ML Specialization <br>💬 Ask me about C++ and webDev<br>⚡ Fun fact i'm a Potter Head
+🔭 I’m currently working on improving my skills<br>👯 I’m looking to collaborate and participate in Hackathons<br>🤝 I’m looking for help with my coading journey<br>🌱 I’m currently learning java 
 
 
 ## 🌐 Socials:
