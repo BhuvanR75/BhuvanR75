@@ -3,7 +3,7 @@
 
 # test:
 hey this is a pull request
-this is to see the regect option 
+
 ## 🌐 Socials:
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bhuvan.ravi75/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhuvan-r-78430529a/) 
 
